@@ -16,7 +16,7 @@
 
 # 30. 包含 min 函数的栈
 
-[NowCoder](https://www.nowcoder.com/practice/4c776177d2c04c2494f2555c9fcc1e49?tpId=13&tqId=11173&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
+[NowCoder](https://www.nowcoder.com/practice/4c776177d2c04c2494f2555c9fcc1e49?tpId=13&tqId=11173&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking&from=cyc_github)
 
 ## 题目描述
 
@@ -49,7 +49,7 @@ public int min() {
 
 # 31. 栈的压入、弹出序列
 
-[NowCoder](https://www.nowcoder.com/practice/d77d11405cc7470d82554cb392585106?tpId=13&tqId=11174&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
+[NowCoder](https://www.nowcoder.com/practice/d77d11405cc7470d82554cb392585106?tpId=13&tqId=11174&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking&from=cyc_github)
 
 ## 题目描述
 
@@ -79,7 +79,7 @@ public boolean IsPopOrder(int[] pushSequence, int[] popSequence) {
 
 # 32.1 从上往下打印二叉树
 
-[NowCoder](https://www.nowcoder.com/practice/7fe2212963db4790b57431d9ed259701?tpId=13&tqId=11175&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
+[NowCoder](https://www.nowcoder.com/practice/7fe2212963db4790b57431d9ed259701?tpId=13&tqId=11175&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking&from=cyc_github)
 
 ## 题目描述
 
@@ -87,7 +87,7 @@ public boolean IsPopOrder(int[] pushSequence, int[] popSequence) {
 
 例如，以下二叉树层次遍历的结果为：1,2,3,4,5,6,7
 
-<div align="center"> <img src="pics/d5e838cf-d8a2-49af-90df-1b2a714ee676.jpg" width="250"/> </div><br>
+<div align="center"> <img src="https://cs-notes-1256109796.cos.ap-guangzhou.myqcloud.com/d5e838cf-d8a2-49af-90df-1b2a714ee676.jpg" width="250"/> </div><br>
 
 ## 解题思路
 
@@ -117,7 +117,7 @@ public ArrayList<Integer> PrintFromTopToBottom(TreeNode root) {
 
 # 32.2 把二叉树打印成多行
 
-[NowCoder](https://www.nowcoder.com/practice/445c44d982d04483b04a54f298796288?tpId=13&tqId=11213&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
+[NowCoder](https://www.nowcoder.com/practice/445c44d982d04483b04a54f298796288?tpId=13&tqId=11213&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking&from=cyc_github)
 
 ## 题目描述
 
@@ -150,7 +150,7 @@ ArrayList<ArrayList<Integer>> Print(TreeNode pRoot) {
 
 # 32.3 按之字形顺序打印二叉树
 
-[NowCoder](https://www.nowcoder.com/practice/91b69814117f4e8097390d107d2efbe0?tpId=13&tqId=11212&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
+[NowCoder](https://www.nowcoder.com/practice/91b69814117f4e8097390d107d2efbe0?tpId=13&tqId=11212&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking&from=cyc_github)
 
 ## 题目描述
 
@@ -187,7 +187,7 @@ public ArrayList<ArrayList<Integer>> Print(TreeNode pRoot) {
 
 # 33. 二叉搜索树的后序遍历序列
 
-[NowCoder](https://www.nowcoder.com/practice/a861533d45854474ac791d90e447bafd?tpId=13&tqId=11176&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
+[NowCoder](https://www.nowcoder.com/practice/a861533d45854474ac791d90e447bafd?tpId=13&tqId=11176&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking&from=cyc_github)
 
 ## 题目描述
 
@@ -195,7 +195,7 @@ public ArrayList<ArrayList<Integer>> Print(TreeNode pRoot) {
 
 例如，下图是后序遍历序列 1,3,2 所对应的二叉搜索树。
 
-<div align="center"> <img src="pics/13454fa1-23a8-4578-9663-2b13a6af564a.jpg" width="150"/> </div><br>
+<div align="center"> <img src="https://cs-notes-1256109796.cos.ap-guangzhou.myqcloud.com/13454fa1-23a8-4578-9663-2b13a6af564a.jpg" width="150"/> </div><br>
 
 ## 解题思路
 
@@ -222,7 +222,7 @@ private boolean verify(int[] sequence, int first, int last) {
 
 # 34. 二叉树中和为某一值的路径
 
-[NowCoder](https://www.nowcoder.com/practice/b736e784e3e34731af99065031301bca?tpId=13&tqId=11177&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
+[NowCoder](https://www.nowcoder.com/practice/b736e784e3e34731af99065031301bca?tpId=13&tqId=11177&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking&from=cyc_github)
 
 ## 题目描述
 
@@ -230,7 +230,7 @@ private boolean verify(int[] sequence, int first, int last) {
 
 下图的二叉树有两条和为 22 的路径：10, 5, 7 和 10, 12
 
-<div align="center"> <img src="pics/ed77b0e6-38d9-4a34-844f-724f3ffa2c12.jpg" width="200"/> </div><br>
+<div align="center"> <img src="https://cs-notes-1256109796.cos.ap-guangzhou.myqcloud.com/ed77b0e6-38d9-4a34-844f-724f3ffa2c12.jpg" width="200"/> </div><br>
 
 ## 解题思路
 
@@ -259,7 +259,7 @@ private void backtracking(TreeNode node, int target, ArrayList<Integer> path) {
 
 # 35. 复杂链表的复制
 
-[NowCoder](https://www.nowcoder.com/practice/f836b2c43afc4b35ad6adc41ec941dba?tpId=13&tqId=11178&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
+[NowCoder](https://www.nowcoder.com/practice/f836b2c43afc4b35ad6adc41ec941dba?tpId=13&tqId=11178&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking&from=cyc_github)
 
 ## 题目描述
 
@@ -277,21 +277,21 @@ public class RandomListNode {
 }
 ```
 
-<div align="center"> <img src="pics/66a01953-5303-43b1-8646-0c77b825e980.png" width="300"/> </div><br>
+<div align="center"> <img src="https://cs-notes-1256109796.cos.ap-guangzhou.myqcloud.com/66a01953-5303-43b1-8646-0c77b825e980.png" width="300"/> </div><br>
 
 ## 解题思路
 
 第一步，在每个节点的后面插入复制的节点。
 
-<div align="center"> <img src="pics/dfd5d3f8-673c-486b-8ecf-d2082107b67b.png" width="600"/> </div><br>
+<div align="center"> <img src="https://cs-notes-1256109796.cos.ap-guangzhou.myqcloud.com/dfd5d3f8-673c-486b-8ecf-d2082107b67b.png" width="600"/> </div><br>
 
 第二步，对复制节点的 random 链接进行赋值。
 
-<div align="center"> <img src="pics/cafbfeb8-7dfe-4c0a-a3c9-750eeb824068.png" width="600"/> </div><br>
+<div align="center"> <img src="https://cs-notes-1256109796.cos.ap-guangzhou.myqcloud.com/cafbfeb8-7dfe-4c0a-a3c9-750eeb824068.png" width="600"/> </div><br>
 
 第三步，拆分。
 
-<div align="center"> <img src="pics/e151b5df-5390-4365-b66e-b130cd253c12.png" width="600"/> </div><br>
+<div align="center"> <img src="https://cs-notes-1256109796.cos.ap-guangzhou.myqcloud.com/e151b5df-5390-4365-b66e-b130cd253c12.png" width="600"/> </div><br>
 
 ```java
 public RandomListNode Clone(RandomListNode pHead) {
@@ -327,13 +327,13 @@ public RandomListNode Clone(RandomListNode pHead) {
 
 # 36. 二叉搜索树与双向链表
 
-[NowCoder](https://www.nowcoder.com/practice/947f6eb80d944a84850b0538bf0ec3a5?tpId=13&tqId=11179&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
+[NowCoder](https://www.nowcoder.com/practice/947f6eb80d944a84850b0538bf0ec3a5?tpId=13&tqId=11179&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking&from=cyc_github)
 
 ## 题目描述
 
 输入一棵二叉搜索树，将该二叉搜索树转换成一个排序的双向链表。要求不能创建任何新的结点，只能调整树中结点指针的指向。
 
-<div align="center"> <img src="pics/05a08f2e-9914-4a77-92ef-aebeaecf4f66.jpg" width="400"/> </div><br>
+<div align="center"> <img src="https://cs-notes-1256109796.cos.ap-guangzhou.myqcloud.com/05a08f2e-9914-4a77-92ef-aebeaecf4f66.jpg" width="400"/> </div><br>
 
 ## 解题思路
 
@@ -362,7 +362,7 @@ private void inOrder(TreeNode node) {
 
 # 37. 序列化二叉树
 
-[NowCoder](https://www.nowcoder.com/practice/cf7e25aa97c04cc1a68c8f040e71fb84?tpId=13&tqId=11214&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
+[NowCoder](https://www.nowcoder.com/practice/cf7e25aa97c04cc1a68c8f040e71fb84?tpId=13&tqId=11214&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking&from=cyc_github)
 
 ## 题目描述
 
@@ -402,7 +402,7 @@ private TreeNode Deserialize() {
 
 # 38. 字符串的排列
 
-[NowCoder](https://www.nowcoder.com/practice/fe6b651b66ae47d7acce78ffdd9a96c7?tpId=13&tqId=11180&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
+[NowCoder](https://www.nowcoder.com/practice/fe6b651b66ae47d7acce78ffdd9a96c7?tpId=13&tqId=11180&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking&from=cyc_github)
 
 ## 题目描述
 
@@ -443,7 +443,7 @@ private void backtracking(char[] chars, boolean[] hasUsed, StringBuilder s) {
 
 # 39. 数组中出现次数超过一半的数字
 
-[NowCoder](https://www.nowcoder.com/practice/e8a1b01a2df14cb2b228b30ee6a92163?tpId=13&tqId=11181&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
+[NowCoder](https://www.nowcoder.com/practice/e8a1b01a2df14cb2b228b30ee6a92163?tpId=13&tqId=11181&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking&from=cyc_github)
 
 ## 解题思路
 
@@ -472,5 +472,6 @@ public int MoreThanHalfNum_Solution(int[] nums) {
 
 
 
-</br><div align="center">🎨️欢迎关注我的公众号 CyC2018，在公众号后台回复关键字 **资料** 可领取复习大纲，这份大纲是我花了一整年时间整理的面试知识点列表，不仅系统整理了面试知识点，而且标注了各个知识点的重要程度，从而帮你理清多而杂的面试知识点。可以说我基本是按照这份大纲来进行复习的，这份大纲对我拿到了 BAT 头条等 Offer 起到很大的帮助。你们完全可以和我一样根据大纲上列的知识点来进行复习，就不用看很多不重要的内容，也可以知道哪些内容很重要从而多安排一些复习时间。</div></br>
-<div align="center"><img width="180px" src="https://cyc-1256109796.cos.ap-guangzhou.myqcloud.com/%E5%85%AC%E4%BC%97%E5%8F%B7.jpg"></img></div>
+
+
+<div align="center"><img width="320px" src="https://cs-notes-1256109796.cos.ap-guangzhou.myqcloud.com/githubio/公众号二维码-2.png"></img></div>
